@@ -6,12 +6,12 @@
     "theme_name" : "dracula",
     "custom_title_bar": true,
     "startup_size": [
-        1400,
+        1500,
         900
     ],
     "minimum_size": [
-        960,
-        540
+        1200,
+        700
     ],
     "lef_menu_size" : {
         "minimum" : 50,
